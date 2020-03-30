@@ -1,0 +1,10 @@
+{
+    "path": "./plugins",
+    "plugins": [
+        {
+            "module": "palindrome",
+            "dir": "locomotion-plugin-example",
+            "source": "https://github.com/drcircuit/locomotion-plugin-example.git"
+        }
+    ]
+}
